@@ -1,0 +1,4 @@
+{
+	"verticalKnife":{"sx":0,"sy":0,"tileW":8,"tileH":16,"frames":2},
+	"horizontalKnife":{"sx":16,"sy":0,"tileW":16,"tileH":8,"frames":3}
+}

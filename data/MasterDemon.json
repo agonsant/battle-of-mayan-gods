@@ -1,0 +1,6 @@
+{
+	"bossThrowSpellV":{"sx":0,"sy":0,"tileW":34,"tileH":34,"frames":6},
+	"bossThrowSpellH":{"sx":0,"sy":34,"tileW":22,"tileH":32,"frames":6},
+	"bossThrowBigSpell":{"sx":0,"sy":66,"tileW":34,"tileH":32,"frames":6},
+	"bossDie":{"sx":0,"sy":98,"tileW":32,"tileH":16,"frames":9}
+}

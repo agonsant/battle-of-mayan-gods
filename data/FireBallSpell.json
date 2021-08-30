@@ -1,0 +1,4 @@
+{
+	"FireBallSpellHSprite":{"sx":0,"sy":0,"tileW":32,"tileH":9,"frames":16},
+	"FireBallSpellVSprite":{"sx":0,"sy":18,"tileW":9.75,"tileH":18,"frames":16}
+}

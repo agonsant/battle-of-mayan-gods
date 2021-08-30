@@ -1,0 +1,5 @@
+{
+	"BossSpellV":{"sx":0,"sy":0,"tileW":16,"tileH":37,"frames":2},
+	"BossSpellH":{"sx":0,"sy":37,"tileW":40,"tileH":14,"frames":2},
+	"BossBigSpell":{"sx":0,"sy":51,"tileW":84,"tileH":148,"frames":1}
+}

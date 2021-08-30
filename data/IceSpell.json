@@ -1,0 +1,4 @@
+{
+	"IceSpellHSprite":{"sx":0,"sy":0,"tileW":32,"tileH":8.5,"frames":16},
+	"IceSpellVSprite":{"sx":0,"sy":17,"tileW":8,"tileH":20,"frames":16}
+}
